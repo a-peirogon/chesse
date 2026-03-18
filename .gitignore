@@ -1,0 +1,46 @@
+# Build directories
+build/
+Build/
+cmake-build-*/
+out/
+bin/
+obj/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# IDE directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+compile_commands.json
+
+# Debug files
+*.log
+*.bak
+*.orig
+
+# Ignorar archivos específicos de compilación
+**/target/
+**/debug/
+**/release/
+
+# Editor files
+.DS_Store
+Thumbs.db
