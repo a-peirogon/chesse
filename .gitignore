@@ -5,6 +5,9 @@ cmake-build-*/
 out/
 bin/
 obj/
+**/target/
+**/debug/
+**/release/
 
 # Compiled files
 *.o
@@ -15,13 +18,8 @@ obj/
 *.dll
 *.so
 *.dylib
-
-# IDE directories
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+chess
+chess_uci
 
 # CMake
 CMakeCache.txt
@@ -30,17 +28,24 @@ cmake_install.cmake
 Makefile
 CTestTestfile.cmake
 compile_commands.json
+CMakeUserPresets.json
+
+# IDE directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
 # Debug files
 *.log
 *.bak
 *.orig
 
-# Ignorar archivos específicos de compilación
-**/target/
-**/debug/
-**/release/
-
 # Editor files
 .DS_Store
 Thumbs.db
+
+# Nix
+result
+result-*
