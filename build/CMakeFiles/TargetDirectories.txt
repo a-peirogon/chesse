@@ -1,3 +1,0 @@
-/home/a_peirogon/Documentos/chesse/build/CMakeFiles/chess.dir
-/home/a_peirogon/Documentos/chesse/build/CMakeFiles/edit_cache.dir
-/home/a_peirogon/Documentos/chesse/build/CMakeFiles/rebuild_cache.dir
