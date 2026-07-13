@@ -1,6 +1,6 @@
 # chesse
 
-> [Motor de ajedrez en C++17](https://www.chessprogramming.org/). Un motor de ajedrez es un programa que sabe jugar ajedrez, analiza variantes e implementa una serie de movimientos que pueda considerar más fuertes.
+> Motor de ajedrez en C++17. [Un motor de ajedrez](https://www.chessprogramming.org/) es un programa que sabe jugar ajedrez, analiza variantes e implementa una serie de movimientos que pueda considerar más fuertes.
 
 Bernd Besser, computerzeitalter:
 
