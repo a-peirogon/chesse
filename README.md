@@ -14,5 +14,5 @@ cmake ..
 cmake --build .
 ```
 
-Genera el binario `chess`. Por defecto corre el protocolo UCI (para GUIs); con `--interactive` o `-i` corre en modo texto contra el motor.
+Genera el binario `chess`. Por defecto corre el protocolo UCI; con `-i` modo texto contra el motor.
 
